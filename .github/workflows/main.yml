@@ -11,7 +11,7 @@ echo "services:
       VERSION: "10"
       USERNAME: "NxPro2008"
       PASSWORD: "NxPro2008@@"
-      RAM_SIZE: "64G"
+      RAM_SIZE: "6G"
       CPU_CORES: "16"
       DISK_SIZE: "800G"
       DISK2_SIZE: "100G"
